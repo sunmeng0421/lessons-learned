@@ -1,4 +1,7 @@
-I will discuss how to work with developer team on e-commerce projects as a business manager.
+I will discuss how to manage a developer team on e-commerce projects as a business manager.
+
+As a Digital Marketing Manager at a Fortune 500 company, I was 
+
   * how to describe project business requirements
   * define timeline and checkpoint
   * ask for regular weekly shipment
