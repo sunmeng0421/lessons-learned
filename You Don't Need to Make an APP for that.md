@@ -13,8 +13,9 @@ It you want something more mobile specific, there are three ways you can go to b
 3) Native Application ($$$)– This is written in the language of the phone.  It provides the absolute best performance but takes more time and is much more expensive.  This will cost on average $50,000.
 
 
+The takeaway presented in class is that you should always try to build a mobile website first.  
 
-The takeaway presented in class is that you should always try to build a mobile website first.
+Additioanlly, you should always start with your business objective: What are you trying to achieve by building your mobile presence? Once you decide where you want to go and what you want to achieve, you'll have a better idea about what you need your product to accomplish.  From there, you can decide whether a mobile website or mobile application is right for you.
 
 
 ![](http://hswsolutions.com/images/banners/mobile-screens.jpg)
