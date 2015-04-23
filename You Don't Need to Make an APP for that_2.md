@@ -15,7 +15,8 @@ It you want something more mobile specific, there are three ways you can go to b
 
 The takeaway presented in class is that you should always try to build a mobile website first.  
 
-Additioanlly, you should always start with your business objective: What are you trying to achieve by building your mobile presence? Once you decide where you want to go and what you want to achieve, you'll have a better idea about what you need your product to accomplish.  From there, you can decide whether a mobile website or mobile application is right for you.
+Additionally, you should always start with your business objective: What are you trying to achieve by building your mobile presence? Once you decide where you want to go and what you want to achieve, you'll have a better idea about what you need your product to accomplish.  From there, you can decide whether a mobile website or mobile application is right for you.
 
+Check out [this quiz](http://www.entrepreneur.com/article/243482) posted by Entrepreneur Magazine to determine if building an app is right for you!
 
 ![](http://hswsolutions.com/images/banners/mobile-screens.jpg)
