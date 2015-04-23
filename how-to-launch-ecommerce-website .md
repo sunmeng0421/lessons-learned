@@ -1,4 +1,4 @@
-Before CBS, I was a digital marketing manager at a Fortune 500 transportation company, my role is to lead a e-commerce website launch. As a business manager, I worked closely with my counterpart - Director of IT platform to launch a website which sells over 10,000 trucks online. The project was successfully luanched within deadline and I found there are particularly important learnings we can take from th Digital Literacy Class. 
+Before CBS, I was a digital marketing manager at a Fortune 500 transportation company, my role is to lead a e-commerce website launch. As a business manager, I worked closely with my counterpart - Director of IT platform to launch a website which sells over 10,000 trucks online. The project was successfully launched within deadline and I found there are particularly important learnings we can take from th Digital Literacy Class. 
 
 1) Project Definition Stage
 
