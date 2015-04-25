@@ -6,7 +6,8 @@ Before CBS, I was a digital marketing manager at a Fortune 500 transportation co
 -  The lead developer can also help you break project into weekly deliverables and help you to identify the big technical obstables (database integration, platform compatability) so you can better track your progress.
 
 - clearly defining business objective trade-offs. 
--   You can't always get what you wanted in the time you want it, so make sure to spend time with developers to prioritize key features. 
+-   You can't always get what you wanted in the time you want it, so make sure to spend time with developers to prioritize key features. [Sing this song together](https://www.youtube.com/watch?v=7S94ohyErSw)
+-   
 
 2) Project Building Stage
 
