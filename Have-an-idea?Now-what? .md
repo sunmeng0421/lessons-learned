@@ -31,3 +31,6 @@ http://alistapart.com/article/gettingrealaboutagiledesign
 http://d.alistapart.com/gettingrealaboutagiledesign/agile.jpg
 
 
+
+![](http://d.alistapart.com/gettingrealaboutagiledesign/agile.jpg)
+
