@@ -28,4 +28,6 @@ Step #3: Build...in an angile manner
 
 http://alistapart.com/article/gettingrealaboutagiledesign 
 
+http://d.alistapart.com/gettingrealaboutagiledesign/agile.jpg
+
 
