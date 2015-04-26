@@ -7,3 +7,7 @@ This means that when building your product you need to first be able to measure 
 Always remember to talk to the customers. Emails and data are nice, but hearing the voice of the customer explain why and how they use your service can be much more persuavice and insightful. Having the ability to listen has to be built into your culture with feedback mechasims that reach your product decision makers. 
 
 Have a design and back-end that is flexible and won't break when you make changes. This means that if you are launching, consider using services that do alot of the hard stuff for you already - like a squarespace, shopify, and stripe. This will allow you and your team to focus on the features that you are bringing that are truely value-add, and will eliminate the pain if you discover the gem in your product that you need to build on.  
+
+[Mashable Story About SMS](http://mashable.com/2012/09/21/text-messaging-history/)
+![alt text](http://rack.1.mshcdn.com/media/ZgkyMDEyLzEyLzA0LzI0L2FicmllZmhpc3RvLjU4Ni5qcGcKcAl0aHVtYgk5NTB4NTM0IwplCWpwZw/12dd05e0/63f/a-brief-history-of-text-messaging-cb61d55d21.jpg "Text message")
+
