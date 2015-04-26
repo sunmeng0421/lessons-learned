@@ -1,13 +1,14 @@
-We are all smart people and one day, we or someone we know will have a potentially revolutionary idea. We did a market scan,
-analyzed competitors, and found of competetive edge? Now what? Do we spend $1M to build the product until it's the best it can
-be? Or do we do something else? 
+We are all smart people and one day, someone we know (or ourselves) will have a potentially revolutionary idea. T follow, we will conduct
+a detailed competitor scan and find the competetive edge. Then what? Do we spend $1M to build the product until it's the best it can
+be? Or do we do something else? Here are some lessons we learned in class on what to do next: 
 
 Step #1: Get a great developer 
 -Not a CTO just yet but a great developer 
--Find someone by reaching through your network to see who they think is the best developer in xyz language or go to a trade 
-show for that language, talk to a speaker, and ask that speaker which great developer they know would be available? 
+-Reach through your network to see who they think is the best developer in xyz language or go to a trade 
+show for that language, talk to a keynote speaker, and ask that speaker if they know of any developers who may be available. 
 -Talk to that developer and figure out a couple of things - look at previous work examples (on GITHUB!), see if there is a culture fit, 
-similar previous experience, and perhaps more important - is there a passion for this topic?) 
+similar previous experience, and perhaps most important - is there a passion for this topic? 
+-Before showing them the core of your idea, make sure they are on board and are excited for the cause! 
 
 Step #2: Setting up your team 
 -Get 2 developers paired up so they can bounce ideas off each other 
@@ -24,5 +25,7 @@ Step #3: Build...in an angile manner
 -Build rather than focus on documentation 
 -Be flexible to change pland and adapt product according to how customers usei t 
 -Go Agile and build the hardest part first 
+
+http://alistapart.com/article/gettingrealaboutagiledesign 
 
 
